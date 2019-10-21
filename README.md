@@ -1,5 +1,3 @@
-![taskapp](img/taskapp.png)
-
 ## TaskApp 🚀
 
 Aplicación Web con Spring Boot, Spring Data JPA, PostgreSQL y Thymeleaf
@@ -18,4 +16,6 @@ Las herramientas que se han usado para construir el proyecto fueron:
 Por el momento yo soy el unico autor :D
 
 * **Henry Antonio Mendoza Puerta** -  [hamp](www.linkedin.com/in/henrymendozapuerta)
+
+![taskapp](img/taskapp.png)
 
