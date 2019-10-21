@@ -15,7 +15,7 @@ Las herramientas que se han usado para construir el proyecto fueron:
 
 Por el momento yo soy el unico autor :D
 
-* **Henry Antonio Mendoza Puerta** -  [hamp](www.linkedin.com/in/henrymendozapuerta)
+* **Henry Antonio Mendoza Puerta** -  [hamp](http://www.linkedin.com/in/henrymendozapuerta)
 
 ![taskapp](img/taskapp.png)
 
